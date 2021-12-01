@@ -1,0 +1,2 @@
+# Birthday-Wisher
+Hey you all, so here I am today again, bringing this small but sweet automatic email(Birthday wish) generator for you. I built this during mu course of 100 Days in Python and it feels so amazing to build and share these small kinds of projects with you all. So have a look around the code, modify it according to your details and let me know if you found this quite good. Thank you.
